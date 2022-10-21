@@ -158,17 +158,321 @@
     .terms-top img {
         padding-bottom: 20px;
     }
-
+    .design-right img {
+        width: 90%;
+    }
+    .that-img img {
+        margin-left: 10px;
+    }
 }
 @media (max-width: 451px) {
+    .market-title h1 {
+        font-size: 30px !important;
+    }
+    .market-title p {
+        font-size: 13px !important;
+    }
+    .norton-title h1 {
+        font-size: 18px !important;
+    }
+    .norton {
+        margin-left: 20px;
+    }
+    .market-title button {
+        margin-left: 100px;
+    }
+    .that-title span {
+        margin-left: 150px;
+    }
+    .that-title h1 {
+        font-size: 30px !important;
+    }
+    .that-title h3 {
+        font-size: 30px !important;
+    }
+    .that-title p {
+        font-size: 15px !important;
+    }
+    .that-img img {
+        margin-left:  10px;
+    }
+    .design-left h1 {
+        font-size: 20px !important;
+    }
+    .design-left p {
+        font-size: 13px !important;
+    }
+    .support {
+        width: 400px;
+        justify-content: space-between;
+    }
+    .support-title img {
+        margin-left: 70px;
+    }
+    .design-left  button {
+        margin-left: 150px;
+    }
+    .design-right {
+        width: 400px;
+    }
+    .emaill-name {
+        justify-content: space-between;
+        width: 380px;
+    }
+    .emaill-name input {
+        width: 171px;
+    }
+    .subject1 {
+        width: 376px;
+    }
+    .subject2 {
+        width: 367px;
+    }
+    .emaill button {
+        width: 354px;
+    }
+    .world-title h1 {
+        font-size: 30px !important;
+    }
+    .world-title p {
+        font-size: 14px !important;
+    }
+    .customer-title h1 {
+        font-size: 10px !important;
+    }
+    .customer {
+        width: 400px;
+    }
+    .customer-title img {
+        display: none;
+    }
+    .product-title h1 {
+        font-size: 30px !important;
+    }
+    .product-title p {
+        font-size: 11px !important;
+    }
+    .education-title {
+        justify-content: space-between;
+        width: 400px;
+    }
+    .education img {
+        width: 90%;
+    }
+    .product-img {
+        width: 500px;
+    }
+    .product-img img {
+        width: 415px;
+    }
+    .gets-title span {
+        margin-left: 110px;
+    }
+    .gets-title p {
+        font-size: 20px !important;
+    }
+    .gets-title button {
+        margin-left: 100px;
+    }
+    .product-img button {
+        margin-left: 100px;
+    }
+    .recent-top{
+        width: 429px;
+    }
+    .recent-top-title {
+        padding: 0 0;
+    }
+    .recent-right {
+        margin-left: -10px;
+    }
+
 
 }
 @media (max-width: 400px) {
+    .market-title h1 {
+        font-size: 30px !important;
+    }
+    .market-title p {
+        font-size: 13px !important;
+    }
+    .norton-title h1 {
+        font-size: 18px !important;
+    }
+    .norton {
+        margin-left: 20px;
+    }
+    .market-title button {
+        margin-left: 100px;
+    }
+    .that-title span {
+        margin-left: 150px;
+    }
+    .that-title h1 {
+        font-size: 30px !important;
+    }
+    .that-title h3 {
+        font-size: 30px !important;
+    }
+    .that-title p {
+        font-size: 15px !important;
+    }
+    .that-img img {
+        margin-left:  10px;
+    }
+    .design-left h1 {
+        font-size: 20px !important;
+    }
+    .design-left p {
+        font-size: 13px !important;
+    }
+    .support {
+        width: 400px;
+        justify-content: space-between;
+    }
+    .support-title img {
+        margin-left: 70px;
+    }
+    .design-left p {
+    font-size: 10px !important;
+    }
+    .design-left  button {
+        margin-left: 150px;
+    }
+    .design-right {
+        width: 350px;
+    }
+    .emaill-name {
+        justify-content: space-between;
+        width: 320px;
+    }
+    .emaill-name input {
+        width: 150px;
+    }
+    .subject1 {
+        width: 320px;
+    }
+    .subject2 {
+        width: 320px;
+    }
+    .emaill button {
+        width: 300px;
+    }
+    .world-title h1 {
+        font-size: 20px !important;
+    }
+    .world-title p {
+        font-size: 14px !important;
+    }
+    .customer-title h1 {
+        font-size: 10px !important;
+    }
+    .customer {
+        width: 350px;
+    }
+    .customer-title img {
+        display: none;
+    }
+    .product-title h1 {
+        font-size: 20px !important;
+    }
+    .product-title p {
+        font-size: 10px !important;
+    }
+    .education-title {
+        justify-content: space-between;
+        width: 300px;
+    }
+    .education img {
+        width: 90%;
+    }
+    .product-img {
+        width: 350px;
+    }
+    .product-img img {
+        width: 350px;
+    }
+    .gets-title span {
+        margin-left: 70px;
+    }
+    .gets-title p {
+        font-size: 20px !important;
+    }
+    .gets-title button {
+        margin-left: 60px;
+    }
+    .product-img button {
+        margin-left: 100px;
+    }
+    .recent-top{
+        width: 350px;
+    }
+    .recent-top-title h1 {
+        font-size: 10px !important;
+    }
+    .recent-top-title p {
+        font-size: 10px !important;
+    }
+    .recent-top-title {
+        padding: 0 0;
+    }
+    .recent-right {
+        width: 440px;
+        margin-left: 10px;
+    }
+    .recent-right img {
+        width: 300px;
+    }
+
 
 }
 @media (max-width: 376px) {
 
 }
 @media (max-width: 320px) {
-
+    .that-title span {
+        margin-left: 90px;
+    }
+    .support {
+        justify-content: space-between;
+        width: 300px;
+    }
+    .support-title img {
+        margin-left: 50px;
+    }
+    .design-left button {
+        margin-left:  90px;
+    }
+    .customer {
+        width: 300px;
+    }
+    .product-img {
+        width: 300px;
+    }
+    .product-img img {
+        width: 300px;
+    }
+    .swiper-slide {
+        margin-left: 10px;
+    }
+    .gets-title span {
+        margin-left: 40px;
+    }
+    .gets-title button {
+        margin-left: 50px;
+    }
+    .recent-top {
+        width: 300px;
+    }
+    .recent-top img {
+        width: 180px;
+        height: 180px;
+    }
+    .recent-right {
+        width: 300px;
+        height: 300px;
+        margin-left: 5px;
+    }
+    .recent-right img {
+    width: 260px}
 }
